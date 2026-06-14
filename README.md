@@ -2,7 +2,7 @@
 
 ### 👋 Bonjour, moi c'est Malaury
 
-Développeuse web full-stack en formation **DWWM** au GRETA Sud Champagne. J'aime construire des applications complètes, du design de l'interface jusqu'à la base de données.
+Développeuse web full-stack en formation. J'aime construire des applications complètes, du design de l'interface jusqu'à la base de données.
 
 ## 🛠️ Compétences
 
