@@ -4,7 +4,7 @@
 
 <br>
 
-Développeuse web full-stack en formation, curieuse et passionnée. Mon objectif : monter en compétences un peu plus chaque jour — et rien ne me motive autant que de voir prendre vie les projets que je réalise. 
+Développeuse web full-stack en formation, curieuse et passionnée. Mon objectif : monter en compétences un peu plus chaque jour et rien ne me motive autant que de voir prendre vie les projets que je réalise. 
 
 ##  Compétences
 
