@@ -1,8 +1,10 @@
-![Bannière](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1A6E8E,100:3FB8C4&text=Malaury&fontSize=60&fontColor=ffffff&desc=D%C3%A9veloppeuse%20web%20full-stack%20%C2%B7%20DWWM&descSize=20&descAlignY=60&animation=fadeIn)
+![Bannière](https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1A6E8E,100:3FB8C4&text=Malaury&fontSize=60&fontColor=ffffff&desc=D%C3%A9veloppeuse%20web%20full-stack&descSize=20&descAlignY=60&animation=fadeIn)
 
 ### 👋 Bonjour, moi c'est Malaury
 
-Développeuse web full-stack en formation. J'aime construire des applications complètes, du design de l'interface jusqu'à la base de données.
+<br>
+
+Développeuse web full-stack en formation, curieuse et passionnée. Mon objectif : monter en compétences un peu plus chaque jour — et rien ne me motive autant que de voir prendre vie les projets que je réalise. 🚀
 
 ## 🛠️ Compétences
 
