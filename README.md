@@ -4,7 +4,7 @@
 
 <br>
 
-Développeuse web full-stack en formation, curieuse et passionnée. Mon objectif : monter en compétences un peu plus chaque jour — et rien ne me motive autant que de voir prendre vie les projets que je réalise. 🚀
+Développeuse web full-stack en formation, curieuse et passionnée. Mon objectif : monter en compétences un peu plus chaque jour — et rien ne me motive autant que de voir prendre vie les projets que je réalise. 
 
 ##  Compétences
 
@@ -19,11 +19,11 @@ Développeuse web full-stack en formation, curieuse et passionnée. Mon objectif
 
 ##  Projets
 
-### 🎓 Annuaire Alumni GRETA
+###  Annuaire Alumni GRETA
 Application web complète qui recense les anciens élèves du GRETA et permet de les retrouver facilement.
 
 - **Front-end** : React, React Router, Tailwind CSS — interface responsive, recherche, carrousel
 - **Back-end** : API en PHP (architecture PSR-4), base de données MySQL
 - **Fonctionnalités** : annuaire dynamique, authentification, tableau de bord administrateur (CRUD), gestion des photos de profil
 
-🔗 [Voir le projet](https://github.com/Malaury-prog/PROJET-ALUMNI)
+ [Voir le projet](https://github.com/Malaury-prog/PROJET-ALUMNI)
